@@ -1,0 +1,1338 @@
+sex,bmi,children,smoker,region,charges,age_bmi
+female,Over Weight,0,yes,southwest,16884.924,530.1
+male,Over Weight,1,no,southeast,1725.5523,607.86
+male,Over Weight,3,no,southeast,4449.462,924.0
+male,Normal,0,no,northwest,21984.47061,749.265
+male,Over Weight,0,no,northwest,3866.8552,924.16
+female,Over Weight,0,no,southeast,3756.6216,797.9399999999999
+female,Over Weight,1,no,southeast,8240.5896,1538.2399999999998
+female,Over Weight,3,no,northwest,7281.5056,1026.3799999999999
+male,Over Weight,2,no,northeast,6406.4107,1103.71
+female,Over Weight,0,no,northwest,28923.13692,1550.4
+male,Over Weight,0,no,northeast,2721.3208,655.5
+female,Over Weight,0,yes,southeast,27808.7251,1629.98
+male,Over Weight,0,no,southwest,1826.843,791.1999999999999
+female,Over Weight,0,no,southeast,11090.7178,2229.92
+male,Over Weight,0,yes,southeast,39611.7577,1137.51
+male,Normal,1,no,southwest,1837.237,467.40000000000003
+female,Over Weight,1,no,northeast,10797.3362,1600.56
+male,Normal,0,no,northeast,2395.17155,548.435
+male,Over Weight,0,no,southwest,10602.385,2256.7999999999997
+male,Over Weight,0,yes,southwest,36837.467,1059.0
+female,Over Weight,0,no,northeast,13228.84695,2160.3
+female,Over Weight,1,no,southwest,4149.736,972.0
+male,Over Weight,0,no,southeast,1137.011,613.8000000000001
+female,Over Weight,1,yes,northeast,37701.8768,1085.28
+male,Over Weight,2,no,northwest,6203.90175,1036.925
+female,Over Weight,3,no,southeast,14001.1338,1635.48
+female,Normal,0,no,northeast,14451.83515,1454.355
+female,Over Weight,2,no,northwest,12268.63225,1802.625
+male,Under Weight,1,no,northwest,2775.19215,399.855
+male,Over Weight,2,yes,southwest,38711.0,1125.3
+male,Over Weight,0,yes,southwest,35585.576,783.2
+female,Over Weight,0,no,northeast,2198.18985,473.67
+female,Over Weight,5,no,southwest,4687.797,543.4
+male,Over Weight,0,no,northwest,13770.0979,1783.53
+male,Over Weight,1,yes,southwest,51194.55914,1019.1999999999999
+male,Normal,0,no,northwest,1625.43375,388.075
+female,Over Weight,3,no,northwest,15612.19335,2043.8300000000002
+male,Normal,0,no,southwest,2302.3,540.8000000000001
+male,Over Weight,1,yes,northeast,39774.2763,1283.45
+male,Over Weight,0,yes,southwest,48173.361,2394.0
+female,Over Weight,0,no,northeast,3046.062,638.4000000000001
+female,Over Weight,2,no,southeast,4949.7587,1135.53
+male,Normal,1,no,southeast,6272.4772,892.98
+female,Over Weight,2,no,southeast,6313.759,1139.6000000000001
+male,Over Weight,1,no,northeast,6079.6715,1407.8999999999999
+male,Over Weight,0,no,southwest,20630.28351,2051.5
+female,Over Weight,2,no,northeast,3393.35635,695.97
+female,Over Weight,0,no,northwest,3556.9223,973.5600000000001
+female,Normal,0,no,southeast,12629.8967,1471.8000000000002
+male,Over Weight,1,yes,southeast,38709.176,1267.2
+female,Over Weight,0,no,northeast,2211.13075,641.25
+female,Over Weight,2,no,northwest,3579.8287,706.23
+male,Over Weight,1,yes,southwest,23568.272,1344.0
+male,Over Weight,0,yes,southeast,37742.5757,1239.48
+female,Over Weight,3,no,northwest,8059.6791,1147.6000000000001
+male,Over Weight,2,yes,northwest,47496.49445,2143.39
+female,Over Weight,2,no,northeast,13607.36875,1845.85
+male,Over Weight,2,yes,southeast,34303.1672,570.24
+female,Normal,1,yes,southeast,23244.7902,1212.6399999999999
+female,Over Weight,2,no,northwest,5989.52365,1269.39
+male,Over Weight,3,no,northeast,8606.2174,1176.48
+male,Over Weight,4,no,southeast,4504.6624,841.4999999999999
+male,Normal,1,no,northwest,30166.61817,1580.8
+female,Over Weight,1,no,northwest,4133.64165,726.18
+female,Normal,0,yes,northwest,14711.7438,448.40000000000003
+female,Over Weight,0,no,southwest,1743.214,549.1
+female,Over Weight,2,no,southwest,14235.072,2385.1
+male,Over Weight,1,no,northwest,6389.37785,1052.6000000000001
+female,Over Weight,0,no,southeast,5920.1041,1447.6
+male,Normal,3,yes,southeast,17663.1442,671.44
+female,Normal,0,yes,southeast,16577.7795,668.25
+male,Over Weight,5,no,northeast,6799.458,883.5
+female,Over Weight,3,no,southwest,11741.726,1489.3000000000002
+male,Over Weight,1,no,southeast,11946.6259,1856.58
+male,Over Weight,2,no,southwest,7726.854,1205.6
+male,Over Weight,0,no,northwest,11356.6609,1938.57
+female,Over Weight,1,no,southeast,3947.4131,858.11
+male,Over Weight,0,no,southeast,1532.4697,746.13
+female,Over Weight,0,no,northeast,2755.02095,875.71
+female,Over Weight,0,no,northwest,6571.02435,1351.565
+male,Over Weight,1,no,northeast,4441.21315,833.4350000000001
+female,Over Weight,0,no,northeast,7935.29115,1722.8249999999998
+male,Over Weight,1,yes,southeast,37165.1638,827.64
+female,Over Weight,4,no,northwest,11033.6617,1979.04
+female,Over Weight,2,yes,southwest,39836.519,1287.6
+male,Normal,2,yes,northwest,21098.55405,1030.275
+female,Over Weight,0,yes,northwest,43578.9394,1776.1200000000001
+female,Over Weight,0,no,southwest,11073.176,1523.2
+female,Over Weight,0,no,northwest,8026.6666,1276.04
+female,Over Weight,0,no,northwest,11082.5772,1483.9
+female,Over Weight,0,no,southeast,2026.9741,829.2900000000001
+female,Normal,1,no,northwest,10942.13205,1314.135
+male,Over Weight,3,yes,northeast,30184.9367,1759.9699999999998
+male,Over Weight,2,no,northwest,5729.0053,1216.95
+female,Over Weight,2,yes,southwest,47291.055,2003.2
+female,Over Weight,1,no,southeast,3766.8838,1053.36
+female,Over Weight,3,no,southwest,12105.32,1663.2
+male,Over Weight,0,no,southeast,10226.2842,2105.4
+male,Normal,0,yes,northeast,22412.6485,1117.2
+male,Normal,0,yes,southwest,15820.699,733.4
+female,Over Weight,0,no,southwest,6186.127,1295.6000000000001
+male,Over Weight,0,no,northeast,3645.0894,763.8000000000001
+female,Over Weight,0,no,northeast,21344.8467,542.0699999999999
+female,Over Weight,3,yes,southeast,30942.1918,1825.1200000000001
+female,Over Weight,1,no,southwest,5003.853,935.0
+male,Over Weight,1,yes,northwest,17560.37975,560.5
+female,Over Weight,1,no,southwest,2331.519,539.6
+male,Over Weight,2,no,northwest,3877.30425,802.75
+male,Over Weight,0,no,southeast,2867.1196,810.26
+male,Over Weight,0,yes,southeast,47055.5321,2210.67
+male,Over Weight,1,no,northwest,10825.2537,1816.0200000000002
+female,Over Weight,2,no,southwest,11881.358,1633.5
+male,Over Weight,0,no,southwest,4646.759,1139.6000000000001
+female,Over Weight,0,no,northwest,2404.7338,750.12
+male,Over Weight,3,no,northeast,11488.31695,1674.6599999999999
+male,Over Weight,0,no,northeast,30259.99556,1715.6999999999998
+male,Over Weight,0,no,southeast,11381.3254,2845.48
+female,Over Weight,1,yes,southeast,19107.7796,810.26
+female,Over Weight,0,no,southeast,8601.3293,1331.3300000000002
+female,Normal,2,no,northwest,6686.4313,864.69
+male,Over Weight,2,no,southwest,7740.337,1632.4
+male,Normal,0,no,northeast,1705.6245,427.5
+female,Over Weight,0,no,northwest,2257.47525,579.5
+male,Over Weight,1,yes,northeast,39556.4945,1379.4
+female,Over Weight,3,no,northwest,10115.00885,1594.0049999999999
+female,Over Weight,0,no,northeast,3385.39915,748.41
+female,Over Weight,0,yes,southwest,17081.08,537.7
+female,Over Weight,0,no,southwest,9634.538,1944.8
+female,Under Weight,2,yes,northwest,32734.1863,568.48
+male,Over Weight,2,no,southwest,6082.405,1318.6000000000001
+female,Over Weight,0,no,northeast,12815.44495,1563.7949999999998
+female,Normal,0,no,northeast,13616.3586,1344.44
+female,Over Weight,2,no,southwest,11163.568,1902.6999999999998
+male,Over Weight,0,no,northwest,1632.56445,485.545
+female,Over Weight,0,no,northeast,2457.21115,575.7
+female,Over Weight,0,no,southeast,2155.6815,617.1
+male,Over Weight,0,no,southwest,1261.442,647.9
+male,Over Weight,0,no,northwest,2045.68525,553.85
+female,Over Weight,3,no,southeast,27322.73386,1722.6
+female,Over Weight,0,no,southwest,2166.732,792.0
+male,Normal,2,no,northeast,27375.90478,762.2800000000001
+male,Over Weight,1,no,northeast,3490.5491,844.74
+male,Over Weight,2,yes,southeast,18972.495,860.2
+male,Over Weight,2,no,northwest,18157.876,862.3149999999999
+male,Over Weight,3,yes,northwest,20745.9891,860.7
+female,Over Weight,3,no,southeast,5138.2567,1126.07
+male,Over Weight,3,yes,northwest,40720.55105,1402.77
+female,Over Weight,1,no,southeast,9877.6077,1924.2299999999998
+female,Over Weight,1,no,northwest,10959.6947,1983.79
+male,Over Weight,1,no,southwest,1842.519,539.6
+male,Normal,1,no,northwest,5125.2157,844.55
+male,Over Weight,0,no,southeast,7789.635,1425.6
+female,Over Weight,3,no,northeast,6334.34355,1188.64
+female,Normal,0,yes,northeast,19964.7463,981.5400000000001
+female,Over Weight,1,no,northeast,7077.1894,1018.4000000000001
+male,Over Weight,0,no,northwest,6948.7008,1738.88
+male,Normal,0,yes,southeast,21223.6758,1172.16
+male,Over Weight,0,yes,northeast,15518.18025,453.15000000000003
+male,Over Weight,0,yes,southeast,36950.2567,1065.9
+female,Over Weight,3,no,southeast,19749.38338,1391.5
+female,Over Weight,0,yes,northwest,21348.706,1117.2
+female,Over Weight,0,yes,southeast,36149.4835,663.3000000000001
+male,Over Weight,1,no,southwest,10450.552,2138.4
+female,Over Weight,2,no,southwest,5152.134,953.6
+male,Over Weight,0,no,northwest,5028.1466,1096.68
+male,Over Weight,4,no,northeast,10407.08585,1326.105
+female,Over Weight,5,no,southwest,4830.63,740.0
+female,Over Weight,3,no,northwest,6128.79745,1060.96
+female,Over Weight,1,no,northwest,2719.27975,604.675
+male,Normal,3,no,northeast,4827.90495,510.43500000000006
+male,Over Weight,0,no,southeast,13405.3903,2612.61
+male,Over Weight,0,no,southwest,8116.68,1484.7
+male,Under Weight,0,no,northeast,1694.7964,287.28000000000003
+female,Over Weight,1,no,southwest,5246.047,1218.0
+female,Over Weight,0,no,northwest,2855.43755,800.28
+female,Over Weight,0,yes,southwest,48824.45,2375.1000000000004
+male,Over Weight,2,no,northwest,6455.86265,1057.73
+male,Over Weight,1,no,southwest,10436.096,1576.8
+female,Over Weight,2,no,southwest,8823.279,1329.3999999999999
+female,Over Weight,3,no,northeast,8538.28845,1359.355
+male,Over Weight,0,no,northwest,11735.87905,1658.51
+female,Over Weight,0,no,southeast,1631.8212,689.04
+male,Normal,3,no,northeast,4005.4225,438.9
+female,Over Weight,0,no,northwest,7419.4779,1162.04
+male,Over Weight,2,no,southeast,7731.4271,1350.3600000000001
+male,Over Weight,3,yes,northeast,43753.33705,1508.22
+female,Over Weight,2,no,southeast,3981.9768,777.9200000000001
+female,Over Weight,3,no,southwest,5325.651,927.0
+female,Over Weight,1,no,southwest,6775.961,1320.2
+female,Over Weight,2,no,northwest,4922.9159,931.1899999999999
+male,Over Weight,0,no,southeast,12557.6053,1925.77
+female,Over Weight,0,no,southwest,4883.866,943.1999999999999
+male,Over Weight,0,no,southeast,2137.6536,643.5
+female,Over Weight,1,no,northwest,12044.342,1489.6000000000001
+male,Over Weight,0,no,southeast,1137.4697,619.74
+male,Over Weight,0,no,northwest,1639.5631,581.21
+female,Over Weight,0,no,southwest,5649.715,1279.1999999999998
+female,Over Weight,2,no,southeast,8516.829,1287.0
+female,Under Weight,0,no,northwest,9644.2525,920.5500000000001
+female,Over Weight,0,no,northeast,14901.5167,2517.12
+female,Over Weight,0,no,northwest,2130.6759,610.09
+female,Over Weight,1,no,southeast,8871.1517,1547.04
+female,Normal,0,no,northwest,13012.20865,1442.1
+female,Over Weight,0,yes,southeast,37133.8982,974.16
+male,Normal,0,no,southwest,7147.105,1025.8
+female,Over Weight,1,no,northeast,4337.7352,808.64
+male,Over Weight,0,no,southeast,11743.299,1557.6
+male,Over Weight,2,yes,northeast,20984.0936,970.9
+female,Over Weight,0,no,southwest,13880.949,2003.4
+male,Over Weight,1,no,northeast,6610.1097,1649.1999999999998
+male,Over Weight,1,no,southwest,1980.07,660.0
+male,Over Weight,4,no,northwest,8162.71625,1235.0
+male,Over Weight,2,no,northwest,3537.703,684.0
+female,Over Weight,1,no,southeast,5002.7827,908.82
+female,Over Weight,2,no,southwest,8520.026,1390.5
+female,Over Weight,2,no,southwest,7371.772,1521.1000000000001
+female,Over Weight,0,no,northwest,10355.641,1409.8000000000002
+male,Normal,0,no,southeast,2483.736,623.7
+female,Over Weight,1,no,southeast,3392.9768,777.9200000000001
+female,Normal,0,no,southeast,25081.76784,557.04
+female,Over Weight,1,no,southwest,5012.471,1145.8000000000002
+female,Over Weight,0,no,northeast,10564.8845,1762.25
+male,Over Weight,3,no,southwest,5253.524,985.6
+male,Over Weight,0,yes,southwest,34779.615,661.1999999999999
+male,Normal,0,yes,southeast,19515.5416,1034.88
+male,Over Weight,3,no,southeast,11987.1682,1863.4
+male,Over Weight,0,no,southeast,2689.4954,1065.68
+female,Over Weight,0,no,southeast,24227.33724,2430.7799999999997
+female,Over Weight,1,no,northeast,7358.17565,1297.035
+male,Over Weight,2,no,northeast,9225.2564,1196.6200000000001
+female,Over Weight,1,no,northwest,7443.64305,1520.19
+female,Over Weight,3,no,southeast,14001.2867,1641.9699999999998
+female,Under Weight,0,no,southwest,1727.785,338.2
+male,Over Weight,1,no,southwest,12333.828,1622.5
+male,Normal,2,no,northwest,6710.1919,955.8900000000001
+female,Normal,2,yes,southeast,19444.2658,888.8
+female,Over Weight,0,no,southeast,1615.7667,481.14
+male,Over Weight,2,no,southeast,4463.2051,1190.09
+male,Over Weight,0,yes,northwest,17352.6803,552.33
+male,Over Weight,1,no,southeast,7152.6714,1674.64
+female,Over Weight,2,yes,northeast,38511.6283,843.4100000000001
+female,Normal,1,no,northeast,5354.07465,730.455
+female,Over Weight,1,no,southwest,35160.13457,1474.0
+male,Over Weight,3,no,southwest,7196.867,1412.0
+female,Over Weight,0,yes,northeast,29523.1656,1747.62
+male,Over Weight,0,no,northwest,24476.47851,1621.08
+female,Over Weight,0,no,southeast,12648.7034,2283.6000000000004
+male,Over Weight,0,no,southeast,1986.9334,860.64
+male,Normal,1,no,southwest,1832.094,397.09999999999997
+male,Over Weight,1,no,northeast,4040.55825,840.2750000000001
+male,Under Weight,2,yes,northeast,12829.4551,311.21999999999997
+female,Over Weight,2,yes,southwest,47305.305,2028.6000000000001
+male,Over Weight,2,yes,southeast,44260.7499,1847.3400000000001
+male,Over Weight,3,no,southwest,4260.744,818.1
+male,Over Weight,0,yes,northeast,41097.16175,1591.25
+female,Over Weight,3,no,northeast,13047.33235,1395.0749999999998
+male,Over Weight,0,yes,northwest,43921.1837,1883.2800000000002
+female,Over Weight,0,no,southeast,5400.9805,1525.7
+male,Normal,4,no,northwest,11520.09985,1245.165
+male,Over Weight,0,yes,northwest,33750.2918,606.48
+female,Over Weight,0,no,southwest,11837.16,1461.6
+female,Over Weight,1,yes,southeast,17085.2676,536.8
+male,Normal,3,yes,northeast,24869.8368,1264.64
+male,Over Weight,0,yes,northwest,36219.40545,702.145
+female,Over Weight,3,no,southeast,20462.99766,2017.18
+male,Over Weight,3,yes,southeast,46151.1245,1948.1000000000001
+male,Normal,1,yes,southeast,17179.522,792.0
+female,Over Weight,3,no,northeast,14590.63205,1911.3050000000003
+male,Over Weight,1,no,southwest,7441.053,1359.0
+male,Over Weight,1,no,northeast,9282.4806,1266.16
+male,Over Weight,1,no,southeast,1719.4363,528.66
+male,Over Weight,2,yes,southwest,42856.838,1710.0000000000002
+male,Over Weight,2,no,northwest,7265.7025,1519.05
+male,Over Weight,1,no,northeast,9617.66245,1372.75
+male,Over Weight,0,no,northwest,2523.1695,688.75
+female,Over Weight,2,no,northeast,9715.841,1250.2
+male,Normal,2,no,northwest,2803.69785,391.68499999999995
+female,Normal,0,no,southwest,2150.469,534.6
+male,Over Weight,2,no,southeast,12928.7911,1875.61
+female,Normal,1,no,southeast,9855.1314,1099.56
+female,Over Weight,1,yes,northeast,22331.5668,1124.8
+male,Over Weight,3,yes,northeast,48549.17835,2190.5099999999998
+male,Over Weight,1,no,northeast,4237.12655,829.35
+female,Over Weight,1,no,northeast,11879.10405,1781.7250000000001
+female,Over Weight,0,no,southwest,9625.92,1622.3999999999999
+male,Over Weight,1,no,southeast,7742.1098,1224.52
+female,Over Weight,2,no,northeast,9432.9253,2211.22
+female,Over Weight,0,no,northwest,14256.1928,1651.86
+female,Over Weight,1,yes,northeast,47896.79135,2169.135
+male,Over Weight,3,no,southeast,25992.82104,1372.8
+female,Over Weight,0,no,southwest,3172.018,935.1999999999999
+male,Over Weight,1,no,northeast,20277.80751,859.5600000000001
+male,Over Weight,2,yes,southeast,42112.2356,1138.5
+female,Over Weight,0,no,southeast,2156.7518,634.04
+male,Over Weight,3,no,southwest,3906.127,670.0
+male,Normal,0,no,northeast,1704.5681,413.82
+male,Over Weight,0,yes,southwest,16297.846,526.3
+male,Over Weight,1,yes,southeast,21978.6769,1194.27
+male,Over Weight,3,yes,northwest,38746.3551,1066.09
+female,Over Weight,1,no,northwest,9249.4952,1386.24
+male,Over Weight,3,no,northeast,6746.7425,991.8000000000001
+female,Normal,3,yes,northeast,24873.3849,1198.33
+female,Over Weight,2,no,southeast,12265.5069,2100.56
+female,Over Weight,2,no,southeast,4349.462,924.0
+female,Over Weight,2,no,southwest,12646.207,2166.0
+male,Over Weight,2,no,northwest,19442.3535,967.005
+female,Over Weight,2,no,southwest,20177.67113,770.0
+female,Over Weight,1,no,southeast,4151.0287,999.9
+male,Over Weight,0,no,northeast,11944.59435,2022.17
+female,Over Weight,2,no,northwest,7749.1564,1355.46
+male,Over Weight,0,no,southwest,8444.474,1330.0
+female,Normal,0,no,southwest,1737.376,469.3
+male,Over Weight,3,yes,southeast,42124.5153,1546.71
+male,Over Weight,0,no,southeast,8124.4084,1757.1399999999999
+female,Over Weight,0,yes,southwest,34838.873,847.8
+male,Over Weight,0,no,northeast,9722.7695,1729.0
+male,Over Weight,0,no,northwest,8835.26495,1610.25
+male,Over Weight,0,no,northeast,10435.06525,1769.85
+female,Over Weight,0,no,northwest,7421.19455,1216.3799999999999
+male,Over Weight,1,no,northeast,4667.60765,1194.72
+male,Over Weight,1,no,northwest,4894.7533,859.18
+female,Over Weight,4,no,northeast,24671.66334,770.64
+male,Over Weight,0,yes,southwest,35491.64,1047.2
+male,Over Weight,0,no,northeast,11566.30055,2333.8650000000002
+male,Over Weight,0,no,southwest,2866.091,788.8
+male,Over Weight,1,no,northeast,6600.20595,1364.1999999999998
+female,Normal,1,no,southeast,3561.8889,626.6700000000001
+male,Over Weight,2,yes,northwest,42760.5022,1641.6
+female,Over Weight,1,yes,southwest,47928.03,2163.2
+male,Over Weight,0,no,southwest,9144.565,1908.4
+female,Over Weight,1,yes,northeast,48517.56315,2219.4849999999997
+male,Over Weight,0,yes,northwest,24393.6224,1422.72
+female,Over Weight,0,no,northwest,13429.0354,1900.76
+female,Over Weight,0,no,northeast,11658.37915,1611.96
+female,Over Weight,2,no,northeast,19144.57652,1535.96
+male,Over Weight,0,no,southwest,13822.803,2208.0
+male,Over Weight,0,no,southeast,12142.5786,1544.3999999999999
+male,Over Weight,1,no,northwest,13937.6665,1708.1000000000001
+male,Over Weight,1,yes,northeast,41919.097,1614.9999999999998
+female,Over Weight,1,no,southeast,8232.6388,1275.12
+female,Over Weight,0,no,southwest,18955.22017,662.4000000000001
+male,Over Weight,0,no,northwest,13352.0998,1861.24
+female,Over Weight,0,no,northeast,13217.0945,1653.0
+male,Over Weight,0,no,northeast,13981.85035,2316.195
+female,Over Weight,4,no,southeast,10977.2063,2032.03
+female,Over Weight,3,no,southeast,6184.2994,994.84
+male,Over Weight,2,no,southeast,4889.9995,1179.75
+male,Over Weight,1,no,northeast,8334.45755,1533.87
+female,Over Weight,1,no,southeast,5478.0368,1077.1200000000001
+male,Over Weight,0,no,northwest,1635.73365,528.865
+female,Normal,0,no,northwest,11830.6072,1321.26
+female,Over Weight,0,no,southwest,8932.084,1280.0
+female,Over Weight,0,no,southwest,3554.203,831.0
+male,Over Weight,0,no,northeast,12404.8791,1163.0849999999998
+female,Over Weight,0,no,southeast,14133.03775,689.04
+male,Over Weight,0,no,southwest,24603.04837,1269.6000000000001
+male,Over Weight,3,no,southeast,8944.1151,2018.94
+male,Over Weight,3,no,northwest,9620.3307,1402.01
+male,Over Weight,0,no,southeast,1837.2819,963.93
+female,Normal,0,no,southeast,1607.5101,374.21999999999997
+female,Over Weight,2,no,northeast,10043.249,1550.3999999999999
+male,Over Weight,1,no,southwest,4751.07,1067.5
+female,Normal,0,yes,southwest,13844.506,412.3
+female,Over Weight,1,no,southwest,2597.779,554.4
+female,Normal,2,no,southeast,3180.5101,459.69
+female,Over Weight,1,no,northeast,9778.3472,1508.22
+female,Over Weight,3,no,northeast,13430.265,1808.7999999999997
+female,Normal,2,no,northwest,8017.06115,1049.37
+male,Over Weight,2,no,northwest,8116.26885,1408.66
+male,Over Weight,3,no,northeast,3481.868,547.1999999999999
+female,Normal,0,no,northwest,13415.0381,1286.49
+female,Normal,0,no,northeast,12029.2867,1267.1100000000001
+female,Over Weight,1,no,northeast,7639.41745,1392.51
+male,Over Weight,2,yes,southwest,36085.219,855.4
+male,Over Weight,0,no,southeast,1391.5287,666.5999999999999
+female,Over Weight,0,yes,northwest,18033.9679,651.13
+female,Normal,3,yes,northeast,21659.9301,970.71
+male,Over Weight,0,yes,southeast,38126.2465,963.5999999999999
+female,Over Weight,3,no,northwest,16455.70785,1927.36
+male,Over Weight,1,no,southeast,27000.98473,1950.52
+female,Under Weight,2,yes,northeast,15006.57945,484.78499999999997
+male,Over Weight,0,yes,northeast,42303.69215,1687.675
+male,Over Weight,0,no,southeast,20781.48892,1815.0
+female,Over Weight,2,no,southeast,5846.9176,1516.9
+male,Normal,2,no,northeast,8302.53565,973.94
+male,Over Weight,0,no,southwest,1261.859,653.6
+female,Over Weight,0,no,southeast,11856.4115,2264.8999999999996
+male,Over Weight,2,no,northwest,30284.64294,1268.25
+female,Normal,0,no,northwest,3176.8159,587.86
+female,Over Weight,3,no,northwest,4618.0799,725.04
+male,Over Weight,4,no,northeast,10736.87075,1710.0
+female,Over Weight,0,no,northwest,2138.0707,711.17
+male,Over Weight,1,no,northeast,8964.06055,1509.3600000000001
+male,Over Weight,1,no,northeast,9290.1395,1536.15
+female,Over Weight,2,no,northeast,9411.005,1485.8
+male,Normal,0,no,northwest,7526.70645,913.33
+female,Over Weight,3,no,southwest,8522.003,1479.2
+male,Over Weight,0,no,southeast,16586.49771,651.42
+male,Over Weight,2,no,southwest,14988.432,1638.4
+female,Over Weight,0,no,southeast,1631.6683,687.0600000000001
+female,Normal,0,no,southwest,9264.797,1050.6000000000001
+male,Over Weight,1,no,southeast,8083.9198,2233.44
+female,Over Weight,0,no,northwest,14692.66935,2109.76
+male,Over Weight,3,no,northwest,10269.46,1582.6999999999998
+male,Normal,0,no,southwest,3260.199,632.4
+female,Over Weight,2,no,northeast,11396.9002,1995.7600000000002
+female,Normal,0,no,southeast,4185.0979,802.2299999999999
+female,Normal,1,no,southwest,8539.671,1109.2
+male,Normal,3,no,southeast,6652.5288,802.5600000000001
+male,Over Weight,1,no,southeast,4074.4537,960.96
+male,Under Weight,0,no,northwest,1621.3402,332.12
+female,Normal,1,yes,northeast,19594.80965,890.3399999999999
+female,Under Weight,2,yes,northeast,14455.64405,447.07
+male,Normal,5,no,southwest,5080.096,597.5
+female,Over Weight,0,no,northwest,2134.9015,667.85
+female,Over Weight,1,no,southeast,7345.7266,1532.52
+male,Over Weight,0,no,southeast,9140.951,1773.2
+female,Normal,2,yes,southwest,18608.262,813.6
+male,Over Weight,1,no,southeast,14418.2804,2506.24
+female,Over Weight,0,yes,northwest,28950.4692,1699.74
+male,Over Weight,0,yes,southeast,46889.2612,2168.32
+male,Over Weight,0,yes,southeast,46599.1084,2187.46
+male,Over Weight,1,yes,northeast,39125.33225,1311.0
+male,Over Weight,0,no,northeast,2727.3951,764.75
+male,Over Weight,2,no,southwest,8968.33,1449.6
+male,Normal,5,no,southeast,9788.8659,1093.95
+female,Over Weight,1,no,northeast,6555.07035,1036.07
+female,Over Weight,0,no,northeast,7323.734819,524.97
+female,Under Weight,1,no,northeast,3167.45585,353.115
+female,Over Weight,3,no,northwest,18804.7524,820.8
+male,Over Weight,0,no,southwest,23082.95533,628.9
+female,Normal,2,no,northwest,4906.40965,586.8149999999999
+male,Over Weight,0,no,southwest,5969.723,1129.8
+female,Over Weight,0,no,southwest,12638.195,1830.0
+male,Over Weight,1,no,northwest,4243.59005,886.4449999999999
+male,Over Weight,3,no,southeast,13919.8229,1986.6
+male,Over Weight,0,no,northeast,2254.7967,698.0600000000001
+male,Over Weight,3,no,southwest,5926.846,1011.5
+female,Over Weight,5,no,southeast,12592.5345,2431.0
+male,Over Weight,0,no,northeast,2897.3235,765.6999999999999
+female,Over Weight,1,no,northwest,4738.2682,1013.08
+female,Over Weight,0,yes,southwest,37079.372,1105.5
+male,Over Weight,0,no,southeast,1149.3959,774.18
+female,Over Weight,1,no,southeast,28287.89766,2154.6800000000003
+male,Over Weight,1,yes,northwest,26109.32905,1494.92
+female,Over Weight,0,no,southwest,7345.084,1489.5
+male,Over Weight,0,no,northeast,12730.9996,1778.4
+female,Over Weight,0,no,northwest,11454.0215,1436.3999999999999
+female,Over Weight,0,no,southwest,5910.944,1184.0
+male,Over Weight,1,no,southwest,4762.329,1351.0
+male,Over Weight,4,no,southwest,7512.267,1154.4
+male,Normal,1,no,northwest,4032.2407,723.9
+male,Normal,0,no,southwest,1969.614,561.5999999999999
+male,Over Weight,0,no,northwest,1769.53165,594.7
+male,Over Weight,2,no,southeast,4686.3887,1488.96
+male,Over Weight,0,no,southwest,21797.0004,2206.6
+female,Over Weight,2,no,southeast,11881.9696,1657.7
+female,Over Weight,0,no,northwest,11840.77505,1738.2150000000001
+male,Over Weight,0,no,southwest,10601.412,2217.6
+female,Over Weight,3,no,southeast,7682.67,1320.0
+female,Over Weight,3,no,southeast,10381.4787,1794.8700000000001
+male,Over Weight,0,yes,southwest,22144.032,1260.0
+female,Over Weight,2,no,northeast,15230.32405,2361.89
+male,Over Weight,0,no,northeast,11165.41765,1452.36
+male,Over Weight,0,no,northwest,1632.03625,478.325
+female,Over Weight,1,yes,southeast,19521.9682,851.4
+female,Over Weight,1,no,southwest,13224.693,1722.0
+female,Over Weight,2,no,northwest,12643.3778,1893.92
+female,Normal,1,no,northeast,23288.9284,680.96
+female,Normal,1,no,southeast,2201.0971,433.62
+male,Over Weight,0,no,southeast,2497.0383,882.09
+female,Over Weight,0,no,northeast,2203.47185,542.0699999999999
+female,Over Weight,0,no,southwest,1744.465,566.2
+female,Over Weight,0,no,northeast,20878.78443,1567.215
+male,Over Weight,3,yes,southwest,25382.297,1355.4
+male,Over Weight,1,yes,northwest,28868.6639,1726.9099999999999
+male,Over Weight,0,yes,northeast,35147.52848,684.0
+male,Over Weight,0,no,northwest,2534.39375,890.625
+male,Over Weight,0,no,southeast,1534.3045,773.85
+male,Over Weight,0,no,southeast,1824.2854,748.8800000000001
+male,Over Weight,3,no,northwest,15555.18875,2603.4750000000004
+male,Over Weight,2,no,southeast,9304.7019,1837.99
+female,Over Weight,0,no,southeast,1622.1885,564.3000000000001
+female,Over Weight,1,no,southwest,9880.068,2014.5
+male,Over Weight,3,no,southwest,9563.029,1646.3999999999999
+female,Over Weight,0,no,northeast,4347.02335,963.015
+female,Normal,3,no,northwest,12475.3513,1159.3799999999999
+male,Over Weight,0,no,southwest,1253.936,545.3
+female,Over Weight,0,yes,southeast,48885.13561,1674.64
+male,Over Weight,1,no,northwest,10461.9794,1651.48
+female,Over Weight,0,no,southwest,1748.774,625.1
+female,Over Weight,0,no,southeast,24513.09126,1529.8799999999999
+female,Over Weight,0,no,northeast,2196.4732,451.43999999999994
+male,Over Weight,0,no,southwest,12574.049,2647.4
+male,Over Weight,4,yes,southwest,17942.106,539.6999999999999
+male,Over Weight,0,no,northeast,1967.0227,558.6
+female,Normal,2,no,southwest,4931.647,731.6
+male,Over Weight,2,no,southwest,8027.968,1291.5
+female,Normal,2,no,southeast,8211.1002,1055.1200000000001
+female,Over Weight,0,no,southwest,13470.86,2430.4
+male,Over Weight,0,yes,southwest,36197.699,997.5999999999999
+male,Over Weight,0,no,northeast,6837.3687,1119.29
+male,Normal,1,yes,southeast,22218.1149,1183.71
+male,Over Weight,0,yes,southeast,32548.3405,574.75
+female,Over Weight,1,no,southeast,5974.3847,1099.34
+male,Over Weight,3,no,northwest,6796.86325,1142.375
+male,Over Weight,1,no,northwest,2643.2685,689.7
+male,Normal,2,no,northwest,3077.0955,498.75
+female,Over Weight,0,no,northeast,3044.2133,606.48
+female,Over Weight,0,no,southwest,11455.28,1635.8999999999999
+male,Over Weight,1,no,northeast,11763.0009,1798.1599999999999
+male,Over Weight,0,no,southeast,2498.4144,908.8199999999999
+male,Normal,0,no,northeast,9361.3268,1143.42
+male,Over Weight,0,no,southwest,1256.299,577.6
+male,Over Weight,1,yes,southwest,21082.16,1103.7
+male,Over Weight,0,no,southwest,11362.755,2070.6000000000004
+male,Over Weight,1,no,southeast,27724.28875,706.2
+male,Over Weight,2,no,northwest,8413.46305,1372.275
+female,Over Weight,1,no,southwest,5240.765,1085.0
+male,Over Weight,0,no,northeast,3857.75925,957.125
+female,Over Weight,0,no,northeast,25656.57526,1368.0
+female,Over Weight,0,no,southeast,3994.1778,1415.04
+female,Over Weight,0,no,northeast,9866.30485,1729.665
+female,Over Weight,0,no,southeast,5397.6167,1433.7399999999998
+male,Over Weight,1,yes,southeast,38245.59327,1094.94
+female,Over Weight,0,no,southeast,11482.63485,609.84
+female,Over Weight,2,no,northwest,24059.68019,581.21
+female,Over Weight,1,no,southwest,9861.025,1315.8
+male,Over Weight,1,no,northeast,8342.90875,1813.55
+male,Over Weight,0,no,northeast,1708.0014,458.28000000000003
+male,Over Weight,1,yes,southeast,48675.5177,2401.4100000000003
+female,Over Weight,0,no,northeast,14043.4767,1967.26
+male,Over Weight,2,no,southeast,12925.886,1752.3
+male,Over Weight,0,no,southeast,19214.70553,1339.03
+male,Over Weight,0,no,southeast,13831.1152,2590.72
+male,Over Weight,1,no,northeast,6067.12675,1064.95
+female,Over Weight,3,no,southwest,5972.378,1283.7
+female,Over Weight,2,no,southwest,8825.086,1389.2
+female,Over Weight,1,no,southeast,8233.0975,1290.3
+male,Over Weight,0,no,southeast,27346.04207,1661.5500000000002
+female,Over Weight,3,no,southwest,6196.448,1292.0
+female,Over Weight,2,no,southeast,3056.3881,635.8
+female,Over Weight,0,no,southeast,13887.204,2286.8999999999996
+female,Over Weight,0,yes,southeast,63770.42801,2560.14
+male,Over Weight,0,no,northwest,10231.4999,1631.3400000000001
+male,Over Weight,2,yes,northwest,23807.2406,1266.16
+male,Over Weight,0,no,northeast,3268.84665,992.1800000000001
+female,Over Weight,2,no,southwest,11538.421,2521.8
+female,Over Weight,0,no,northeast,3213.62205,714.875
+female,Over Weight,0,yes,southeast,45863.205,1986.6000000000001
+male,Over Weight,0,no,southwest,13390.559,1940.4
+female,Over Weight,0,no,southeast,3972.9247,925.76
+male,Normal,0,no,southwest,12957.118,1326.8
+female,Over Weight,2,no,northwest,11187.6567,1649.96
+female,Over Weight,0,no,northeast,17878.90068,1033.125
+male,Normal,2,no,southwest,3847.674,666.4
+male,Over Weight,1,no,northeast,8334.5896,1538.2399999999998
+male,Over Weight,0,no,southeast,3935.1799,1163.14
+female,Over Weight,3,yes,northwest,39983.42595,1193.675
+male,Over Weight,0,no,northwest,1646.4297,675.07
+female,Normal,2,no,northwest,9193.8385,917.6999999999999
+female,Over Weight,0,no,northeast,10923.9332,1764.72
+male,Over Weight,0,no,southwest,2494.022,823.5
+male,Over Weight,1,no,southeast,9058.7303,2238.5
+female,Over Weight,2,no,southeast,2801.2588,578.16
+female,Over Weight,0,no,northwest,2128.43105,579.405
+female,Over Weight,1,no,northwest,6373.55735,1541.4699999999998
+male,Over Weight,2,no,northwest,7256.7231,1254.19
+female,Over Weight,5,no,southwest,11552.904,1563.1
+male,Over Weight,2,yes,northwest,45702.02235,1947.12
+female,Over Weight,0,no,southwest,3761.292,902.1
+female,Over Weight,1,no,southeast,2219.4451,671.22
+female,Over Weight,2,no,southeast,4753.6368,1293.6
+female,Over Weight,1,no,northeast,31620.00106,2285.32
+female,Over Weight,2,no,northeast,13224.05705,1954.815
+female,Over Weight,0,no,northwest,12222.8983,1575.8600000000001
+male,Over Weight,0,no,southeast,1664.9996,590.48
+female,Over Weight,1,yes,northeast,58571.07448,1180.945
+male,Over Weight,1,no,southwest,9724.53,1570.3999999999999
+female,Normal,0,no,northeast,3206.49135,586.625
+male,Over Weight,1,no,northeast,12913.9924,1502.14
+male,Over Weight,2,no,southeast,6356.2707,1771.77
+female,Normal,1,no,southeast,17626.23951,756.8
+male,Normal,0,no,southwest,1242.816,393.3
+female,Over Weight,1,no,southeast,4779.6023,932.91
+male,Normal,3,no,northeast,3861.20965,424.935
+female,Over Weight,1,yes,northwest,43943.8761,1027.14
+female,Over Weight,0,no,northeast,13635.6379,2190.5099999999998
+female,Over Weight,1,no,southeast,5976.8311,1166.22
+female,Over Weight,0,no,southwest,11842.442,1682.0
+male,Normal,1,no,northwest,8428.0693,919.79
+male,Over Weight,2,no,southeast,2566.4707,622.6
+female,Normal,1,yes,northeast,15359.1045,458.85
+male,Over Weight,0,no,southeast,5709.1644,1650.6599999999999
+female,Over Weight,1,no,northeast,8823.98575,1551.3500000000001
+female,Over Weight,2,no,southeast,7640.3092,1238.16
+female,Over Weight,1,no,northeast,5594.8455,1130.5
+male,Over Weight,2,no,southwest,7441.501,1401.8
+female,Over Weight,2,no,northwest,33471.97189,1951.3
+female,Over Weight,0,no,southeast,1633.0444,704.8799999999999
+male,Over Weight,0,no,northwest,9174.13565,1613.385
+female,Over Weight,0,no,southwest,11070.535,1416.8
+female,Over Weight,3,no,southeast,16085.1275,2499.2
+female,Over Weight,0,yes,northwest,17468.9839,537.89
+female,Over Weight,0,no,southeast,9283.562,1739.1000000000001
+female,Over Weight,0,no,northeast,3558.62025,679.725
+female,Normal,0,yes,northwest,25678.77845,1395.645
+male,Over Weight,2,no,northeast,4435.0942,755.44
+male,Over Weight,2,yes,southwest,39241.442,1134.0
+female,Over Weight,1,no,southeast,8547.6913,1380.39
+female,Over Weight,2,no,southwest,6571.544,1322.3999999999999
+female,Over Weight,0,no,northeast,2207.69745,596.79
+female,Normal,3,no,northeast,6753.038,646.0
+female,Over Weight,0,no,southeast,1880.07,660.0
+female,Over Weight,1,yes,southeast,42969.8527,1721.6100000000001
+female,Over Weight,0,no,northeast,11658.11505,1601.32
+male,Over Weight,2,yes,southwest,23306.547,1254.4
+female,Over Weight,0,yes,southeast,34439.8559,629.09
+female,Over Weight,0,no,southwest,10713.644,2040.5
+male,Over Weight,1,no,southwest,3659.346,942.0
+male,Over Weight,4,yes,southwest,40182.246,1261.7
+female,Normal,1,no,southwest,9182.17,1043.7
+male,Over Weight,0,yes,northeast,34617.84065,603.6299999999999
+male,Over Weight,0,no,northwest,12129.61415,1698.315
+female,Over Weight,0,no,northwest,3736.4647,754.87
+male,Over Weight,3,no,northeast,6748.5912,1039.68
+male,Over Weight,1,no,southeast,11326.71487,1401.18
+male,Over Weight,0,no,southwest,11365.952,2204.0
+female,Over Weight,0,yes,northwest,42983.4585,1713.8000000000002
+male,Over Weight,1,no,southwest,10085.846,1913.3000000000002
+male,Over Weight,0,no,southwest,1977.815,703.2
+female,Over Weight,0,no,southeast,3366.6697,1030.3700000000001
+male,Normal,2,no,northeast,7173.35995,908.1999999999999
+male,Over Weight,1,no,southwest,9391.346,2024.7
+male,Over Weight,0,no,northeast,14410.9321,2444.16
+female,Normal,1,no,northwest,2709.1119,465.69000000000005
+female,Over Weight,2,no,northeast,24915.04626,1333.325
+male,Over Weight,0,yes,northeast,20149.3229,1029.99
+male,Over Weight,4,no,southeast,12949.1554,1884.9599999999998
+male,Over Weight,5,no,southwest,6666.243,1399.2
+male,Over Weight,3,yes,northwest,32787.45859,1189.02
+male,Over Weight,0,no,northeast,13143.86485,2068.815
+female,Over Weight,3,no,northwest,4466.6214,804.08
+male,Over Weight,2,no,southeast,18806.14547,1518.3300000000002
+male,Over Weight,3,no,northeast,10141.1362,1477.44
+male,Over Weight,1,no,northwest,6123.5688,1022.5799999999999
+female,Normal,3,no,northeast,8252.2843,934.8000000000001
+male,Over Weight,0,no,northeast,1712.227,513.0
+female,Over Weight,0,no,northeast,12430.95335,1911.9700000000003
+female,Over Weight,2,no,southeast,9800.8882,2091.32
+female,Over Weight,1,no,southeast,10579.711,2098.8
+female,Over Weight,0,no,southeast,8280.6227,1494.24
+female,Over Weight,2,no,southeast,8527.532,1633.4999999999998
+female,Over Weight,0,no,southeast,12244.531,2076.8
+female,Over Weight,2,yes,southeast,24667.419,1315.6000000000001
+female,Over Weight,1,no,southwest,3410.324,1102.3999999999999
+male,Over Weight,2,no,northwest,4058.71245,895.1850000000001
+female,Over Weight,1,no,northeast,26392.26029,1723.6799999999998
+female,Over Weight,4,no,northeast,14394.39815,1640.7450000000001
+male,Over Weight,3,no,southeast,6435.6237,1721.6100000000001
+female,Normal,1,no,southeast,22192.43711,1366.8600000000001
+female,Over Weight,1,no,northeast,5148.5526,1009.28
+male,Over Weight,0,no,southeast,1136.3994,605.8799999999999
+female,Normal,0,yes,southeast,27037.9141,1471.36
+male,Over Weight,2,yes,southeast,42560.4304,1636.5800000000002
+male,Over Weight,1,no,southwest,8703.456,1406.3
+female,Over Weight,2,yes,northwest,40003.33225,1311.0
+male,Over Weight,0,yes,northeast,45710.20785,1984.93
+female,Over Weight,1,no,southeast,6500.2359,1192.3999999999999
+male,Over Weight,3,no,southeast,4837.5823,947.1
+female,Over Weight,0,no,northeast,3943.5954,903.64
+male,Over Weight,0,no,southeast,4399.731,1069.2
+female,Over Weight,0,no,southeast,6185.3208,1271.82
+female,Over Weight,2,yes,southeast,46200.9851,1931.16
+male,Normal,0,no,northwest,7222.78625,961.875
+female,Over Weight,3,no,southeast,12485.8009,2244.55
+male,Over Weight,3,yes,northwest,46130.5265,1881.0
+male,Over Weight,3,no,southwest,12363.547,2021.6000000000001
+female,Normal,2,no,northwest,10156.7832,1135.82
+female,Under Weight,1,no,southwest,2585.269,365.4
+male,Normal,0,no,southwest,1242.26,385.7
+male,Over Weight,2,yes,southwest,40103.89,1376.6999999999998
+male,Normal,0,no,northwest,9863.4718,1288.96
+female,Under Weight,1,no,southwest,4766.022,610.5
+male,Over Weight,2,no,northeast,11244.3769,1399.73
+male,Over Weight,2,no,northeast,7729.64575,1097.25
+male,Over Weight,0,no,southeast,5438.7491,1667.6
+female,Normal,1,no,southwest,26236.57997,1132.7
+male,Over Weight,1,yes,southeast,34806.4677,840.51
+male,Over Weight,0,no,northeast,2104.1134,574.56
+male,Over Weight,1,no,southwest,8068.185,1701.4
+male,Over Weight,1,no,northwest,2362.22905,647.9000000000001
+male,Normal,0,no,northwest,2352.96845,567.72
+female,Over Weight,1,no,southwest,3577.999,939.5999999999999
+female,Over Weight,0,no,northwest,3201.24515,1044.81
+female,Over Weight,2,no,northeast,29186.48236,1711.8999999999999
+male,Over Weight,1,yes,southeast,40273.6455,1465.75
+male,Over Weight,0,no,northwest,10976.24575,1888.6000000000001
+female,Over Weight,2,no,southeast,3500.6123,903.21
+female,Over Weight,0,no,southeast,2020.5523,732.27
+female,Over Weight,0,no,northeast,9541.69555,2237.25
+male,Over Weight,0,no,southeast,9504.3103,2197.91
+female,Over Weight,1,no,northwest,5385.3379,897.94
+female,Over Weight,1,no,northwest,8930.93455,1388.615
+female,Over Weight,2,no,southwest,5375.038,1085.7
+female,Over Weight,0,yes,southeast,44400.4064,1941.0600000000002
+male,Over Weight,3,no,northwest,10264.4421,1405.8100000000002
+female,Over Weight,3,no,northeast,6113.23105,945.345
+female,Over Weight,0,no,northeast,5469.0066,998.64
+male,Over Weight,1,no,southeast,1727.54,633.6
+female,Normal,2,no,southeast,10107.2206,1177.0
+female,Over Weight,2,no,northwest,8310.83915,1319.455
+male,Over Weight,0,no,northeast,1984.4533,809.4
+female,Normal,0,no,southwest,2457.502,542.4000000000001
+male,Over Weight,0,no,southwest,12146.971,1734.0
+female,Normal,1,no,northwest,9566.9909,1107.8899999999999
+male,Normal,1,no,northwest,13112.6048,1459.2
+female,Over Weight,2,no,northwest,10848.1343,1870.17
+female,Over Weight,0,no,northwest,12231.6136,1939.52
+female,Over Weight,0,no,northeast,9875.6804,2073.66
+male,Over Weight,3,no,southwest,11264.541,1939.8000000000002
+male,Over Weight,0,no,southwest,12979.358,2318.7999999999997
+male,Over Weight,0,no,southwest,1263.249,672.6
+female,Over Weight,1,no,northeast,10106.13425,1353.75
+female,Over Weight,3,yes,southeast,40932.4295,1171.5
+male,Over Weight,1,no,northwest,6664.68595,1164.605
+female,Normal,1,yes,northeast,16657.71745,630.895
+female,Over Weight,0,no,northeast,2217.6012,725.04
+female,Over Weight,1,no,southeast,6781.3542,1479.28
+male,Normal,3,yes,southeast,19361.9988,854.7
+male,Normal,1,no,southwest,10065.413,1134.1999999999998
+female,Over Weight,3,no,southwest,4234.927,722.4000000000001
+female,Over Weight,1,no,northeast,9447.25035,1308.72
+female,Over Weight,3,no,southwest,14007.222,1893.9
+female,Over Weight,1,no,northwest,9583.8933,1703.7300000000002
+female,Over Weight,0,yes,southeast,40419.0191,1420.43
+male,Normal,2,no,southwest,3484.331,616.1999999999999
+male,Over Weight,3,yes,northeast,36189.1017,729.79
+male,Over Weight,2,yes,southwest,44585.45587,1029.5
+male,Normal,2,no,northeast,8604.48365,1081.575
+male,Over Weight,0,yes,southeast,18246.4955,787.05
+male,Over Weight,0,yes,northeast,43254.41795,1807.5649999999998
+female,Over Weight,0,no,southeast,3757.8448,825.22
+male,Over Weight,0,no,northwest,8827.2099,1320.5
+female,Over Weight,1,no,northwest,9910.35985,1505.75
+male,Over Weight,2,no,southwest,11737.84884,918.0
+male,Normal,0,no,northwest,1627.28245,413.34499999999997
+female,Over Weight,1,no,southwest,8556.907,1692.0
+male,Over Weight,0,no,northwest,3062.50825,864.5
+female,Over Weight,0,yes,southeast,19539.243,976.8
+male,Over Weight,0,no,northwest,1906.35825,608.475
+male,Over Weight,0,no,northwest,14210.53595,2425.92
+female,Normal,0,no,southeast,11833.7823,1320.66
+male,Over Weight,4,no,northeast,17128.42608,807.1200000000001
+male,Over Weight,2,no,northeast,5031.26955,856.995
+female,Normal,3,no,northeast,7985.815,889.2
+female,Over Weight,0,yes,southeast,23065.4207,1308.01
+male,Over Weight,3,no,northeast,5428.7277,1122.9
+male,Over Weight,0,yes,southeast,36307.7983,687.0600000000001
+female,Over Weight,2,no,northeast,3925.7582,760.76
+male,Over Weight,1,no,southwest,2416.955,809.6
+male,Over Weight,1,yes,southwest,19040.876,894.3000000000001
+male,Over Weight,0,no,northeast,3070.8087,702.8100000000001
+female,Over Weight,2,no,northeast,9095.06825,1132.875
+female,Over Weight,0,no,northwest,11842.62375,1814.0249999999999
+male,Over Weight,1,no,southwest,8062.764,1518.1
+female,Over Weight,1,no,southwest,7050.642,1218.0
+female,Over Weight,0,no,southwest,14319.031,2540.8
+female,Normal,2,no,northwest,6933.24225,740.0500000000001
+male,Over Weight,3,no,southwest,27941.28758,2202.1
+female,Over Weight,2,no,southwest,11150.78,1415.1
+female,Over Weight,0,no,northeast,12797.20962,1605.12
+female,Over Weight,0,yes,northwest,17748.5062,548.72
+male,Over Weight,2,no,northwest,7261.741,1402.2
+male,Over Weight,3,no,southeast,10560.4917,1699.83
+male,Over Weight,2,no,northwest,6986.697,1292.0
+male,Over Weight,0,no,northeast,7448.40395,1791.225
+male,Over Weight,3,no,southeast,5934.3798,1201.2
+male,Over Weight,0,no,northwest,9869.8102,1530.6399999999999
+male,Normal,3,yes,southwest,18259.216,732.0
+male,Over Weight,0,no,southeast,1146.7966,740.52
+male,Over Weight,1,no,southeast,9386.1613,1834.47
+female,Over Weight,1,yes,southwest,24520.264,1380.0
+female,Over Weight,1,no,southeast,4350.5144,907.0600000000001
+female,Over Weight,3,no,southwest,6414.178,969.5
+male,Over Weight,0,no,northeast,12741.16745,2217.2999999999997
+male,Over Weight,0,no,northwest,1917.3184,774.06
+male,Normal,3,no,northeast,5209.57885,652.9350000000001
+female,Over Weight,0,no,southeast,13457.9608,1855.0400000000002
+female,Over Weight,0,no,southeast,5662.225,1630.1999999999998
+male,Over Weight,0,no,southwest,1252.407,524.4
+female,Normal,0,no,northeast,2731.9122,509.96
+male,Normal,0,yes,southeast,21195.818,1107.6999999999998
+female,Over Weight,2,no,northwest,7209.4918,1244.88
+male,Over Weight,0,yes,northwest,18310.742,769.5
+male,Over Weight,2,no,southeast,4266.1658,1326.6
+female,Normal,1,no,northeast,4719.52405,686.85
+female,Over Weight,0,no,southwest,11848.141,1919.8000000000002
+male,Normal,0,yes,northeast,17904.52705,818.235
+female,Over Weight,1,no,southeast,7046.7222,1099.56
+female,Over Weight,0,no,southeast,14313.8463,2302.08
+male,Normal,1,no,southwest,2103.08,468.3
+female,Over Weight,0,yes,southeast,38792.6856,760.32
+male,Over Weight,0,no,southeast,1815.8759,609.73
+female,Over Weight,0,no,northwest,7731.85785,1611.675
+female,Over Weight,1,no,northwest,28476.73499,1656.8000000000002
+female,Over Weight,0,no,northwest,2136.88225,694.9250000000001
+male,Over Weight,0,no,southeast,1131.5066,542.52
+male,Over Weight,1,no,northeast,3309.7926,646.0
+female,Over Weight,3,no,southwest,9414.92,1416.8
+female,Over Weight,3,no,northwest,6360.9936,1417.02
+male,Normal,2,no,southeast,11013.7119,1134.5400000000002
+male,Normal,2,no,northeast,4428.88785,630.4200000000001
+male,Over Weight,2,no,southeast,5584.3057,1239.48
+female,Over Weight,0,no,southeast,1877.9294,629.2
+female,Normal,0,no,northwest,2842.76075,581.4000000000001
+male,Over Weight,3,no,southwest,3597.596,853.3000000000001
+female,Over Weight,1,yes,northeast,23401.30575,1227.875
+female,Over Weight,0,yes,northwest,55135.40209,1172.49
+male,Over Weight,1,no,southwest,7445.918,1516.5000000000002
+male,Under Weight,0,no,northwest,2680.9493,459.4200000000001
+female,Over Weight,0,no,southeast,1621.8827,560.34
+female,Over Weight,2,no,southeast,8219.2039,1311.6399999999999
+male,Normal,0,no,northwest,12523.6048,1459.2
+female,Over Weight,2,no,northeast,16069.08475,2036.8
+male,Over Weight,2,yes,southeast,43813.8661,1780.24
+male,Over Weight,1,yes,northeast,20773.62775,1008.9
+male,Over Weight,3,yes,northeast,39597.4072,1261.98
+male,Normal,1,no,northwest,6117.4945,852.1500000000001
+male,Over Weight,0,no,southwest,13393.756,2085.3
+female,Over Weight,0,no,northwest,5266.3656,930.24
+female,Normal,2,no,northwest,4719.73655,667.66
+male,Over Weight,0,no,northwest,11743.9341,1994.6200000000001
+male,Over Weight,1,no,northwest,5377.4578,1217.52
+male,Over Weight,2,no,southeast,7160.3303,1510.74
+male,Over Weight,0,no,southwest,4402.233,1134.0
+female,Over Weight,0,no,northeast,11657.7189,1585.36
+female,Normal,2,no,northeast,6402.29135,821.275
+female,Over Weight,0,no,northwest,12622.1795,1849.65
+male,Over Weight,0,no,southwest,1526.312,653.1
+male,Normal,0,no,northeast,12323.936,1457.3
+female,Over Weight,2,yes,southeast,36021.0112,753.94
+female,Over Weight,0,yes,southeast,27533.9129,1699.1699999999998
+male,Over Weight,0,no,northeast,10072.05505,1616.2350000000001
+female,Over Weight,0,yes,southeast,45008.9555,1947.0000000000002
+female,Over Weight,1,no,southwest,9872.701,1744.2
+male,Over Weight,1,no,southeast,2438.0552,1158.74
+female,Normal,0,no,southwest,2974.126,650.7
+male,Over Weight,0,no,northwest,10601.63225,1802.625
+female,Over Weight,0,yes,northeast,37270.1512,1138.8600000000001
+male,Over Weight,2,no,northwest,14119.62,1970.2999999999997
+female,Over Weight,0,yes,northeast,42111.6647,1634.38
+female,Normal,2,no,northeast,11729.6795,1258.75
+female,Normal,3,yes,northeast,24106.91255,1168.405
+female,Over Weight,0,no,southwest,1875.344,592.0
+female,Over Weight,0,yes,southeast,40974.1649,1589.28
+male,Normal,0,yes,northwest,15817.9857,603.25
+female,Over Weight,1,no,southeast,18218.16139,805.7499999999999
+male,Over Weight,0,no,southwest,10965.446,1601.7
+female,Over Weight,2,yes,southwest,46113.511,1761.2
+female,Over Weight,3,no,southwest,7151.092,1064.0
+female,Over Weight,2,no,northwest,12269.68865,1844.4249999999997
+female,Normal,0,no,northeast,5458.04645,714.78
+male,Over Weight,0,no,southwest,8782.469,1295.3999999999999
+male,Over Weight,2,no,southwest,6600.361,1196.0
+male,Over Weight,0,no,southeast,1141.4451,671.22
+male,Over Weight,1,no,southwest,11576.13,2490.9
+male,Normal,0,no,northeast,13129.60345,1442.9550000000002
+female,Normal,3,no,southwest,4391.652,607.5
+male,Over Weight,0,no,southwest,8457.818,1810.0000000000002
+female,Over Weight,1,no,southeast,3392.3652,766.48
+male,Normal,0,no,southeast,5966.8874,1044.12
+male,Over Weight,1,no,southwest,6849.026,1294.3
+male,Normal,3,no,northeast,8891.1395,961.4000000000001
+female,Over Weight,0,no,northwest,2690.1138,646.76
+female,Over Weight,1,no,southwest,26140.3603,1327.9
+male,Over Weight,5,no,southeast,6653.7886,1103.52
+male,Over Weight,1,no,southwest,6282.235,1180.8
+female,Over Weight,2,no,southwest,6311.952,1091.5
+male,Over Weight,3,no,southwest,3443.064,765.5999999999999
+male,Over Weight,1,no,northwest,2789.0574,629.28
+female,Normal,0,no,northeast,2585.85065,464.83500000000004
+female,Over Weight,3,yes,northeast,46255.1125,1889.55
+male,Over Weight,4,no,northwest,4877.98105,667.375
+male,Over Weight,1,yes,southeast,19719.6947,925.76
+male,Over Weight,0,yes,northeast,27218.43725,1651.575
+female,Over Weight,0,no,northwest,5272.1758,1080.72
+male,Over Weight,0,no,southwest,1682.597,869.0
+male,Over Weight,1,no,northwest,11945.1327,1916.91
+female,Over Weight,0,yes,northwest,29330.98315,1720.64
+female,Over Weight,4,no,southeast,7243.8136,1045.44
+male,Normal,0,no,northeast,10422.91665,1297.89
+male,Over Weight,2,yes,southeast,44202.6536,1830.1799999999998
+male,Over Weight,0,no,northeast,13555.0049,1990.82
+female,Over Weight,0,no,southwest,13063.883,2684.0
+female,Normal,2,yes,northeast,19798.05455,861.9350000000001
+male,Over Weight,1,no,northwest,2221.56445,485.545
+female,Over Weight,0,no,southeast,1634.5734,724.68
+female,Normal,0,no,northwest,2117.33885,427.785
+male,Normal,0,no,northeast,8688.85885,1103.2350000000001
+male,Over Weight,0,yes,southeast,48673.5588,2455.2000000000003
+male,Over Weight,3,no,northeast,4661.28635,708.89
+male,Over Weight,0,no,southeast,8125.7845,1805.65
+female,Over Weight,0,no,southwest,12644.589,2106.0
+female,Over Weight,2,no,northeast,4564.19145,763.23
+male,Over Weight,3,no,northeast,4846.92015,879.7950000000001
+female,Over Weight,1,no,southeast,7633.7206,1422.96
+male,Over Weight,3,no,southwest,15170.069,2507.3999999999996
+female,Normal,0,yes,southwest,17496.306,787.2
+male,Over Weight,1,no,northwest,2639.0429,622.8199999999999
+male,Over Weight,0,yes,northeast,33732.6867,571.14
+female,Over Weight,3,no,northwest,14382.70905,1575.005
+female,Over Weight,1,no,southwest,7626.993,1210.0
+male,Normal,2,no,northwest,5257.50795,811.965
+female,Over Weight,0,no,southeast,2473.3341,815.76
+female,Over Weight,0,yes,northwest,21774.32215,1156.055
+male,Normal,0,yes,northeast,35069.37452,1030.275
+female,Over Weight,0,no,southwest,13041.921,1720.2
+female,Over Weight,1,no,southeast,5245.2269,1197.3500000000001
+female,Over Weight,0,no,southwest,13451.122,1550.0
+female,Over Weight,0,no,southwest,13462.52,2058.4
+male,Over Weight,1,no,southwest,5488.262,1178.0
+male,Over Weight,0,no,northwest,4320.41085,1217.71
+male,Normal,0,no,southwest,6250.435,997.6
+male,Over Weight,2,no,northeast,25333.33284,1605.5
+female,Normal,2,no,southwest,2913.569,444.59999999999997
+female,Normal,1,no,southwest,12032.326,1145.7
+female,Over Weight,0,no,southeast,13470.8044,2427.9199999999996
+male,Over Weight,1,no,southeast,6289.7549,1402.6100000000001
+male,Over Weight,1,no,southeast,2927.0647,1209.78
+female,Over Weight,1,no,southwest,6238.298,1267.5
+male,Over Weight,5,no,southwest,10096.97,1186.8
+female,Over Weight,0,no,southwest,7348.142,1588.4999999999998
+male,Over Weight,2,no,southeast,4673.3922,1189.76
+female,Over Weight,0,no,southwest,12233.828,1622.5
+male,Over Weight,2,no,northeast,32108.66282,1308.34
+female,Normal,5,no,northwest,8965.79575,944.7750000000001
+male,Over Weight,2,no,southeast,2304.0022,471.24
+male,Over Weight,0,no,southeast,9487.6442,1562.44
+male,Normal,0,no,southeast,1121.8739,417.78000000000003
+female,Over Weight,1,no,southeast,9549.5651,2304.5
+female,Over Weight,0,no,northeast,2217.46915,723.33
+male,Normal,0,no,northwest,1628.4709,429.59
+male,Over Weight,0,no,southeast,12982.8747,2475.66
+female,Over Weight,1,no,southwest,11674.13,2004.7999999999997
+male,Over Weight,2,no,southwest,7160.094,1503.6
+male,Over Weight,1,yes,northeast,39047.285,1265.4
+male,Over Weight,0,no,northwest,6358.77645,1312.71
+male,Over Weight,3,yes,southwest,19933.458,742.5
+male,Under Weight,0,no,northeast,11534.87265,1045.095
+male,Over Weight,2,yes,southeast,47462.894,2187.9
+female,Over Weight,1,no,northwest,4527.18295,852.1500000000001
+male,Over Weight,2,yes,southwest,38998.546,1328.8
+male,Over Weight,1,yes,northwest,20009.63365,946.39
+male,Over Weight,1,no,southeast,3875.7341,1224.19
+male,Over Weight,1,yes,southeast,41999.52,1663.2
+male,Over Weight,1,no,northwest,12609.88702,642.96
+male,Over Weight,1,yes,northeast,41034.2214,1503.28
+male,Over Weight,1,no,northwest,28468.91901,1760.16
+female,Over Weight,1,no,northwest,2730.10785,752.6850000000001
+female,Over Weight,0,no,southwest,3353.284,751.0999999999999
+female,Over Weight,1,no,southeast,14474.675,2217.6000000000004
+male,Normal,3,no,northeast,9500.57305,1140.5700000000002
+male,Over Weight,2,no,northwest,26467.09737,1911.78
+male,Over Weight,1,no,southwest,4746.344,948.5
+male,Normal,2,yes,northwest,23967.38305,1264.545
+male,Over Weight,1,no,northwest,7518.02535,1116.06
+male,Over Weight,2,no,northeast,3279.86855,540.645
+female,Over Weight,5,no,southeast,8596.8278,1338.48
+female,Over Weight,3,no,southeast,10702.6424,1408.0
+female,Normal,0,no,northeast,4992.3764,801.04
+female,Normal,0,no,northwest,2527.81865,445.16999999999996
+female,Over Weight,0,no,southwest,1759.338,769.5
+male,Over Weight,0,no,southeast,2322.6218,920.9200000000001
+male,Normal,0,yes,northeast,16138.76205,663.955
+male,Over Weight,0,no,southeast,7804.1605,1927.1999999999998
+male,Over Weight,1,no,southeast,2902.9065,757.9
+female,Over Weight,3,no,northeast,9704.66805,1799.7749999999999
+female,Over Weight,0,no,southeast,4889.0368,1077.1200000000001
+male,Over Weight,1,no,northeast,25517.11363,1374.8400000000001
+male,Normal,0,no,northeast,4500.33925,726.75
+male,Over Weight,3,yes,southwest,19199.944,802.9
+female,Over Weight,1,no,northeast,16796.41194,825.93
+male,Over Weight,5,no,northeast,4915.05985,602.3
+female,Over Weight,1,no,southwest,7624.63,1135.2
+male,Over Weight,3,no,northwest,8410.04685,1294.945
+female,Over Weight,1,no,northwest,28340.18885,1244.025
+male,Over Weight,0,no,northeast,4518.82625,1178.9499999999998
+female,Normal,0,yes,northeast,14571.8908,492.48
+female,Normal,1,no,southwest,3378.91,514.8000000000001
+female,Over Weight,2,no,northeast,7144.86265,1057.73
+female,Over Weight,2,no,southwest,10118.424,1580.0
+male,Over Weight,1,no,southeast,5484.4673,1074.26
+female,Normal,3,yes,northwest,16420.49455,541.215
+female,Normal,3,no,northeast,7986.47525,907.7249999999999
+female,Over Weight,3,no,southwest,7418.522,1329.9
+female,Over Weight,0,no,southeast,13887.9685,2321.55
+female,Over Weight,3,no,northeast,6551.7501,1197.57
+female,Over Weight,0,no,northwest,5267.81815,967.86
+male,Normal,2,yes,northwest,17361.7661,689.6999999999999
+male,Over Weight,0,yes,southwest,34472.841,784.8000000000001
+male,Over Weight,0,no,southwest,1972.95,619.2
+male,Over Weight,0,no,southwest,21232.18226,1420.8000000000002
+male,Normal,1,no,northeast,8627.5411,901.9300000000001
+male,Over Weight,2,no,northwest,4433.3877,920.17
+male,Over Weight,2,no,northeast,4438.2634,819.2800000000001
+male,Over Weight,3,yes,northwest,24915.22085,1326.105
+male,Normal,2,no,northeast,23241.47453,624.625
+male,Over Weight,1,no,northeast,9957.7216,1414.74
+female,Normal,0,no,southwest,8269.044,1094.4
+male,Normal,2,yes,southeast,18767.7377,865.5899999999999
+female,Over Weight,4,no,southeast,36580.28216,2033.1299999999999
+male,Over Weight,1,no,northwest,8765.249,1550.3999999999999
+female,Over Weight,0,no,southwest,5383.536,1048.8
+male,Over Weight,0,no,northwest,12124.9924,1502.14
+female,Normal,1,no,northwest,2709.24395,467.495
+female,Over Weight,2,no,southwest,3987.926,889.2
+female,Over Weight,3,no,northwest,12495.29085,1934.0099999999998
+female,Over Weight,2,no,northwest,26018.95052,686.28
+male,Over Weight,0,no,southwest,8798.593,1887.0
+female,Over Weight,3,yes,southeast,35595.5898,682.4399999999999
+male,Over Weight,1,yes,southeast,42211.1382,1695.76
+male,Normal,1,no,southeast,1711.0268,419.76
+female,Over Weight,1,no,southeast,8569.8618,2130.04
+female,Over Weight,0,no,southwest,2020.177,726.6
+male,Over Weight,1,yes,northwest,16450.8947,494.57000000000005
+male,Normal,0,no,northwest,21595.38229,430.445
+male,Over Weight,0,no,southwest,9850.432,1706.4
+female,Under Weight,2,no,northeast,6877.9801,639.73
+female,Normal,1,yes,northwest,21677.28345,1088.13
+female,Over Weight,0,yes,southeast,44423.803,1936.0000000000002
+female,Over Weight,0,no,northeast,4137.5227,837.9
+male,Normal,0,yes,northeast,13747.87235,388.17
+male,Over Weight,0,no,northwest,12950.0712,2341.1800000000003
+female,Normal,3,no,southwest,12094.478,1242.0
+male,Over Weight,2,yes,southeast,37484.4493,815.54
+female,Over Weight,1,yes,northwest,39725.51805,1372.275
+male,Over Weight,0,no,northeast,2250.8352,635.36
+male,Over Weight,2,no,northwest,22493.65964,518.035
+female,Over Weight,0,yes,northwest,20234.85475,980.875
+male,Normal,0,no,northeast,1704.70015,415.53000000000003
+male,Over Weight,0,yes,northeast,33475.81715,613.6999999999999
+female,Over Weight,0,no,southwest,3161.454,722.4
+male,Over Weight,1,no,northeast,11394.06555,1938.475
+female,Normal,2,yes,northwest,21880.82,1062.1
+female,Over Weight,0,no,northeast,7325.0482,1078.4399999999998
+male,Over Weight,1,yes,southeast,44501.3982,1156.76
+female,Normal,1,no,northwest,3594.17085,562.875
+male,Over Weight,0,yes,southwest,39727.614,1514.1
+female,Over Weight,1,no,northwest,8023.13545,1626.02
+male,Over Weight,0,no,northeast,14394.5579,1690.24
+male,Over Weight,1,no,northeast,9288.0267,1461.6699999999998
+male,Over Weight,3,yes,southwest,25309.489,1400.6000000000001
+female,Normal,0,no,northwest,3353.4703,579.6899999999999
+male,Over Weight,0,no,northwest,10594.50155,1520.475
+female,Over Weight,0,no,southwest,8277.523,1387.1999999999998
+female,Over Weight,0,no,southeast,17929.30337,1430.55
+female,Over Weight,0,no,southeast,2480.9791,947.76
+male,Over Weight,1,no,northwest,4462.7218,1082.24
+male,Over Weight,0,no,southeast,1981.5819,768.24
+male,Over Weight,1,no,southeast,11554.2236,1592.5800000000002
+male,Over Weight,1,yes,southeast,48970.2476,2427.26
+male,Over Weight,3,no,northwest,6548.19505,1029.42
+female,Over Weight,4,no,southwest,5708.867,742.4000000000001
+female,Over Weight,1,no,southwest,7045.499,1062.6000000000001
+male,Over Weight,2,no,southeast,8978.1851,1789.92
+male,Over Weight,0,no,northeast,5757.41345,1663.545
+male,Normal,1,no,northwest,14349.8544,1364.58
+female,Over Weight,1,no,southeast,10928.849,1722.6
+male,Over Weight,1,yes,southeast,39871.7043,1371.59
+male,Over Weight,0,no,northeast,13974.45555,1981.035
+male,Over Weight,0,no,northwest,1909.52745,656.355
+female,Over Weight,2,no,northeast,12096.6512,1559.52
+female,Under Weight,0,no,northeast,13204.28565,1100.1000000000001
+female,Over Weight,1,no,southeast,4562.8421,946.88
+female,Over Weight,1,no,southwest,8551.347,1504.0
+male,Over Weight,0,no,northeast,2102.2647,546.63
+male,Over Weight,0,yes,southeast,34672.1472,887.04
+male,Over Weight,3,no,southeast,15161.5344,2120.58
+male,Normal,2,no,southeast,11884.04858,392.04
+male,Over Weight,1,no,northwest,4454.40265,890.72
+male,Normal,1,no,northwest,5855.9025,758.1
+male,Over Weight,1,no,southwest,4076.497,1008.0
+female,Over Weight,2,no,northwest,15019.76005,1890.69
+female,Under Weight,5,yes,southwest,19023.26,713.7
+male,Over Weight,0,no,northeast,10796.35025,1593.625
+male,Over Weight,0,no,northwest,11353.2276,1797.78
+male,Over Weight,1,no,southeast,9748.9106,2482.48
+male,Normal,0,no,southwest,10577.087,1237.6000000000001
+male,Over Weight,0,yes,southeast,41676.0811,1700.9299999999998
+female,Over Weight,0,no,northeast,11286.5387,1640.6499999999999
+male,Over Weight,3,no,southwest,3591.48,752.1
+female,Over Weight,0,yes,northwest,33907.548,668.8
+female,Over Weight,4,no,southwest,11299.343,1685.0000000000002
+female,Over Weight,4,no,northeast,4561.1885,564.3000000000001
+female,Over Weight,2,yes,northeast,44641.1974,1782.96
+male,Over Weight,0,no,southeast,1674.6323,742.94
+female,Over Weight,0,no,northeast,23045.56616,1605.5
+female,Over Weight,1,no,southeast,3227.1211,849.75
+female,Normal,2,yes,northeast,16776.30405,630.135
+male,Over Weight,3,no,southwest,11253.421,1515.8000000000002
+male,Over Weight,1,no,southeast,3471.4096,1129.26
+male,Over Weight,0,no,southeast,11363.2832,2092.64
+male,Over Weight,0,no,southwest,20420.60465,1102.6000000000001
+female,Over Weight,0,no,southeast,10338.9316,1686.9599999999998
+female,Over Weight,0,no,northwest,8988.15875,1466.325
+female,Over Weight,2,no,northwest,10493.9458,1311.0
+male,Over Weight,1,no,southwest,2904.088,780.0
+male,Normal,3,no,southeast,8605.3615,915.7500000000001
+female,Over Weight,1,no,northeast,11512.405,1744.1999999999998
+male,Over Weight,3,yes,southeast,41949.2441,1458.82
+female,Over Weight,3,yes,southeast,24180.9335,1240.8000000000002
+female,Over Weight,3,no,northwest,5312.16985,736.82
+male,Normal,0,no,northeast,2396.0959,563.73
+male,Over Weight,1,no,southeast,10807.4863,1796.8500000000001
+male,Over Weight,5,no,northeast,9222.4026,1215.24
+male,Over Weight,2,yes,southeast,36124.5737,833.25
+male,Over Weight,1,yes,southeast,38282.7495,1179.75
+female,Normal,3,no,northwest,5693.4305,598.5
+female,Over Weight,0,yes,southwest,34166.273,722.1999999999999
+male,Over Weight,2,no,southeast,8347.1643,1755.8200000000002
+female,Over Weight,3,yes,northwest,46661.4424,1953.58
+female,Over Weight,1,no,northeast,18903.49141,874.6650000000001
+female,Over Weight,1,yes,northeast,40904.1995,983.25
+female,Over Weight,0,no,northwest,14254.6082,1580.04
+male,Over Weight,0,no,southwest,10214.636,1644.5
+female,Over Weight,2,no,southeast,5836.5204,1255.1
+male,Over Weight,1,no,southwest,14358.36437,1115.1999999999998
+female,Normal,0,no,southwest,1728.897,353.40000000000003
+female,Normal,5,no,southeast,8582.3023,930.9300000000001
+male,Over Weight,2,no,southwest,3693.428,1239.3
+male,Over Weight,0,no,northeast,20709.02034,2295.96
+female,Under Weight,0,no,northwest,9991.03765,953.4200000000001
+male,Over Weight,0,no,northwest,19673.33573,946.96
+female,Over Weight,3,no,northwest,11085.5868,1406.0
+female,Over Weight,1,no,southwest,7623.518,1100.0
+female,Normal,0,no,northwest,3176.2877,577.98
+male,Over Weight,0,no,southeast,3704.3545,998.25
+female,Over Weight,0,yes,northwest,36898.73308,617.3100000000001
+male,Over Weight,1,no,southeast,9048.0273,1853.5
+female,Over Weight,3,no,southwest,7954.517,1336.6000000000001
+female,Normal,0,no,southeast,27117.99378,1292.72
+male,Over Weight,2,no,southeast,6338.0756,1261.2600000000002
+male,Over Weight,2,no,southwest,9630.397,1614.9999999999998
+male,Over Weight,3,no,northwest,11289.10925,1704.3
+male,Over Weight,0,yes,southwest,52590.82939,1967.9999999999998
+female,Over Weight,0,no,northwest,2261.5688,638.4000000000001
+male,Normal,1,no,southwest,10791.96,1182.5
+male,Over Weight,0,no,southwest,5979.731,1432.2
+female,Over Weight,0,no,northeast,2203.73595,545.49
+female,Over Weight,0,no,northwest,12235.8392,2115.8399999999997
+female,Over Weight,3,yes,southeast,40941.2854,1400.0800000000002
+female,Over Weight,1,no,northwest,5630.45785,1253.5249999999999
+female,Over Weight,4,no,northwest,11015.1747,1340.6399999999999
+female,Normal,3,no,northeast,7228.21565,796.86
+male,Over Weight,0,yes,southeast,39722.7462,852.72
+female,Normal,2,no,northwest,14426.07385,533.14
+female,Over Weight,0,no,northeast,2459.7201,611.8
+female,Over Weight,0,no,southwest,3989.841,1315.2
+female,Over Weight,1,no,northwest,7727.2532,1486.9399999999998
+male,Over Weight,2,no,southeast,5124.1887,1432.42
+male,Over Weight,1,no,southeast,18963.17192,1164.8999999999999
+female,Over Weight,0,no,northeast,2200.83085,507.87
+female,Over Weight,1,no,northwest,7153.5539,1160.71
+female,Over Weight,0,no,northeast,5227.98875,914.375
+male,Over Weight,0,no,southeast,10982.5013,2301.0899999999997
+female,Normal,2,no,southwest,4529.477,713.4000000000001
+male,Over Weight,2,no,southwest,4670.64,1126.4
+female,Over Weight,1,no,northwest,6112.35295,1261.885
+male,Over Weight,1,yes,northeast,17178.6824,492.48
+female,Over Weight,2,yes,southwest,22478.6,1148.1
+female,Over Weight,0,no,southeast,11093.6229,2346.96
+male,Over Weight,2,no,northwest,6457.8434,1111.88
+male,Over Weight,2,no,northwest,4433.9159,931.1899999999999
+female,Over Weight,0,no,southwest,2154.361,596.2
+female,Normal,1,yes,northwest,23887.6627,1254.76
+female,Over Weight,1,no,southwest,6496.886,1096.0
+female,Over Weight,0,no,northeast,2899.48935,801.8950000000001
+male,Over Weight,0,yes,southeast,19350.3689,924.11
+female,Over Weight,1,no,northeast,7650.77375,1735.65
+female,Over Weight,0,no,northwest,2850.68375,718.2
+female,Over Weight,0,no,southwest,2632.992,757.5
+female,Over Weight,1,no,northeast,9447.3824,1313.28
+female,Over Weight,1,yes,southeast,18328.2381,655.27
+male,Normal,2,no,northeast,8603.8234,1060.2
+male,Over Weight,3,yes,northwest,37465.34375,712.5
+female,Over Weight,0,no,northwest,13844.7972,2026.16
+female,Over Weight,1,yes,northeast,21771.3423,1086.61
+female,Over Weight,0,no,southwest,13126.67745,644.0
+female,Over Weight,2,no,northwest,5327.40025,1016.025
+female,Normal,1,no,northeast,13725.47184,891.9549999999999
+female,Over Weight,1,no,northeast,13019.16105,1878.91
+female,Over Weight,0,no,northwest,8671.19125,1755.6000000000001
+female,Normal,0,no,northwest,4134.08245,674.405
+female,Over Weight,3,no,northwest,18838.70366,530.67
+female,Over Weight,0,yes,northwest,33307.5508,570.38
+male,Over Weight,0,no,southeast,5699.8375,1375.55
+male,Over Weight,1,no,northwest,6393.60345,1174.2
+female,Over Weight,2,no,southwest,4934.705,799.8000000000001
+male,Normal,2,no,northwest,6198.7518,899.84
+male,Over Weight,2,no,northwest,8733.22925,1857.25
+male,Over Weight,0,no,northwest,2055.3249,706.42
+male,Over Weight,1,no,northeast,9964.06,1647.3
+female,Over Weight,3,yes,southeast,18223.4512,491.04
+male,Under Weight,1,no,northwest,5116.5004,625.1
+female,Over Weight,2,no,southwest,36910.60803,2053.2
+male,Over Weight,2,yes,southwest,38415.474,1202.3999999999999
+female,Over Weight,1,yes,northeast,20296.86345,945.535
+male,Over Weight,1,no,southwest,12347.172,2188.9
+male,Over Weight,1,no,northwest,5373.36425,1111.5
+male,Over Weight,2,no,southeast,23563.01618,1329.9
+male,Normal,0,no,northeast,1702.4553,386.46
+female,Over Weight,2,no,southwest,10806.839,1731.6
+female,Over Weight,1,no,northwest,3956.07145,843.885
+male,Over Weight,0,no,northeast,12890.05765,704.52
+male,Over Weight,0,no,southeast,5415.6612,1003.1999999999999
+male,Over Weight,2,no,southeast,4058.1161,1081.41
+female,Over Weight,1,yes,southwest,41661.602,1591.6000000000001
+female,Over Weight,3,no,northwest,7537.1639,1147.98
+female,Normal,1,no,northeast,4718.20355,658.35
+male,Normal,2,no,southeast,6593.5083,998.8
+male,Over Weight,0,no,southeast,8442.667,1265.0
+female,Normal,0,yes,southeast,26125.67477,488.40000000000003
+male,Normal,1,no,northeast,6858.4796,981.5400000000001
+female,Over Weight,1,no,southeast,4795.6568,1314.06
+male,Under Weight,2,no,northeast,6640.54485,638.97
+male,Over Weight,2,no,southeast,7162.0122,1561.56
+male,Over Weight,0,no,southeast,10594.2257,1928.08
+male,Over Weight,0,no,northeast,11938.25595,1757.69
+male,Over Weight,3,yes,northwest,60021.39897,1793.22
+female,Normal,0,yes,southwest,20167.33603,436.0
+female,Normal,3,no,northwest,12479.70895,1328.67
+male,Normal,0,no,southwest,11345.519,1351.4
+female,Over Weight,2,no,southeast,8515.7587,1252.35
+male,Over Weight,0,no,northwest,2699.56835,807.69
+female,Normal,0,no,northeast,14449.8544,1364.58
+female,Over Weight,0,no,northwest,12224.35085,1636.47
+male,Normal,3,no,northeast,6985.50695,840.0849999999999
+female,Over Weight,1,no,southeast,3238.4357,1053.25
+male,Over Weight,2,yes,southeast,47269.854,2173.6
+male,Over Weight,2,yes,southeast,49577.6624,2365.44
+female,Normal,3,no,northwest,4296.2712,468.16
+female,Over Weight,0,no,southeast,3171.6149,927.0799999999999
+male,Over Weight,0,no,southeast,1135.9407,599.9399999999999
+male,Normal,5,no,southwest,5615.369,680.4
+female,Over Weight,3,no,southwest,9101.798,1156.5
+male,Over Weight,4,no,southwest,6059.173,970.1999999999999
+female,Over Weight,0,no,southeast,1633.9618,716.76
+male,Over Weight,1,yes,northeast,37607.5277,1076.16
+male,Over Weight,0,yes,northeast,18648.4217,715.92
+male,Normal,0,no,southwest,1241.565,376.2
+male,Over Weight,0,yes,southwest,16232.847,546.0
+female,Over Weight,4,no,southwest,15828.82173,1172.0
+female,Over Weight,0,no,southeast,4415.1588,942.48
+female,Over Weight,0,no,southwest,6474.013,1591.8
+female,Over Weight,3,no,northwest,11436.73815,1855.635
+female,Over Weight,1,no,northwest,11305.93455,1492.83
+male,Over Weight,3,no,northwest,30063.58055,2074.3250000000003
+female,Normal,0,no,northeast,10197.7722,1205.36
+female,Normal,0,no,northeast,4544.2348,656.64
+male,Over Weight,1,no,southwest,3277.161,1038.8
+female,Over Weight,1,no,southeast,6770.1925,1150.05
+female,Over Weight,1,no,southwest,7337.748,1285.7
+female,Over Weight,2,no,northeast,10370.91255,1633.905
+male,Normal,0,yes,southeast,26926.5144,1520.64
+female,Over Weight,0,no,southwest,10704.47,1677.5
+male,Over Weight,0,yes,northeast,34254.05335,745.5600000000001
+female,Over Weight,0,no,southwest,1880.487,666.0
+male,Over Weight,3,no,southwest,8615.3,1237.5
+male,Over Weight,1,no,northwest,3292.52985,881.79
+female,Over Weight,0,no,northwest,3021.80915,862.125
+male,Over Weight,5,no,southeast,14478.33015,1097.36
+male,Over Weight,1,no,southeast,4747.0529,966.35
+male,Over Weight,0,yes,southeast,17043.3414,703.56
+male,Normal,0,no,southwest,10959.33,1350.8999999999999
+female,Over Weight,0,no,northeast,2741.948,668.8
+female,Over Weight,0,no,northwest,4357.04365,951.52
+male,Over Weight,1,yes,northeast,22462.04375,1167.075
+female,Over Weight,2,no,northwest,4189.1131,669.75
+female,Over Weight,0,no,southeast,8283.6807,1599.84
+female,Over Weight,2,yes,northwest,24535.69855,1299.315
+female,Normal,0,yes,northeast,14283.4594,389.88
+male,Over Weight,1,no,southeast,1720.3537,540.54
+male,Over Weight,1,yes,southwest,47403.88,2214.2999999999997
+female,Normal,0,no,northeast,8534.6718,1143.04
+female,Under Weight,0,no,northeast,3732.6251,484.12
+female,Over Weight,1,no,southwest,5472.449,932.4
+male,Over Weight,2,yes,southwest,38344.566,788.0
+male,Over Weight,1,no,southeast,7147.4728,1510.08
+female,Normal,2,no,northeast,7133.9025,758.1
+male,Over Weight,0,yes,southwest,34828.654,663.1
+male,Normal,0,no,southeast,1515.3449,487.41
+male,Over Weight,3,no,northwest,9301.89355,1184.27
+male,Over Weight,0,no,northeast,11931.12525,1460.15
+male,Normal,1,no,southwest,1964.78,440.0
+male,Over Weight,0,no,northeast,1708.92575,470.25
+female,Over Weight,2,no,southeast,4340.4409,742.2800000000001
+male,Over Weight,2,no,northwest,5261.46945,906.015
+female,Over Weight,1,no,northwest,2710.82855,489.15500000000003
+male,Over Weight,0,yes,southeast,62592.87309,1366.2
+male,Over Weight,3,yes,northwest,46718.16325,1914.25
+female,Normal,1,no,southwest,3208.787,520.0
+male,Over Weight,0,yes,southwest,37829.7242,1195.4
+male,Normal,2,yes,northeast,21259.37795,1033.41
+female,Over Weight,0,no,southeast,2464.6188,665.28
+female,Normal,0,yes,northeast,16115.3045,633.6500000000001
+male,Over Weight,4,yes,northwest,21472.4788,899.84
+female,Over Weight,0,yes,southwest,33900.653,755.0
+male,Over Weight,2,no,southwest,6875.961,1320.2
+male,Over Weight,1,no,northwest,6940.90985,1105.23
+female,Over Weight,0,no,northwest,4571.41305,880.9350000000001
+male,Over Weight,1,no,southwest,4536.259,1458.6
+female,Over Weight,2,yes,southwest,36397.576,659.3000000000001
+female,Normal,3,yes,northwest,18765.87545,709.6500000000001
+male,Over Weight,1,no,northeast,11272.33139,509.58
+female,Normal,0,no,southwest,1731.677,391.40000000000003
+male,Over Weight,0,no,southeast,1163.4627,956.34
+male,Over Weight,4,no,northeast,19496.71917,1389.8500000000001
+female,Over Weight,2,no,northwest,7201.70085,1026.285
+male,Over Weight,3,no,northwest,5425.02335,963.015
+male,Over Weight,0,yes,northeast,28101.33305,1655.09
+male,Over Weight,0,no,southeast,12981.3457,2407.46
+female,Over Weight,2,yes,southeast,43896.3763,1695.54
+male,Over Weight,1,no,northwest,4239.89265,803.985
+male,Over Weight,0,no,northeast,13143.33665,2045.6349999999998
+female,Over Weight,0,no,northeast,7050.0213,1380.54
+male,Over Weight,1,no,southeast,9377.9047,1531.53
+female,Normal,2,no,northeast,22395.74424,557.1750000000001
+male,Over Weight,2,no,southwest,10325.206,2007.2
+female,Over Weight,2,no,southeast,12629.1656,1467.1799999999998
+female,Over Weight,0,no,southwest,10795.93733,768.1999999999999
+female,Over Weight,3,no,southwest,11411.685,2324.4
+male,Over Weight,3,no,northwest,10600.5483,1548.5
+female,Over Weight,0,no,northeast,2205.9808,574.5600000000001
+female,Over Weight,0,no,southeast,1629.8335,663.3000000000001
+female,Over Weight,0,no,southwest,2007.945,541.8000000000001
+female,Over Weight,0,yes,northwest,29141.3603,1773.27
